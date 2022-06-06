@@ -1,2 +1,2 @@
-# javascript completo Origamid 
-Curso de javascript completo da plataforma Origamid
+# JavaScript completo Origamid 
+Curso de JavaScript completo da plataforma Origamid
