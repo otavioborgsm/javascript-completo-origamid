@@ -14,15 +14,19 @@ Curso de JavaScript completo da plataforma [Origamid](https://www.origamid.com/)
 * Webpack
 
 # Projetos do Curso:
-**Button Creator**
+### **Button Creator**
 Ferramenta para criar botões personalizados, com código em CSS retornado ao cliente.
+>
 [[button-creator]](https://otavioborgsm.github.io/javascript-completo-origamid/efeitos-no-dom/button-creator/)
-**CPF Validator**
+### **CPF Validator**
 Valida o CPF e muda a cor do input conforme o resultado.
+> 
 [[valida-cpf]](https://otavioborgsm.github.io/javascript-completo-origamid/regular-expression/valida-cpf/)
-**Slide**
+### **Slide**
 Modelo do Slide implementado no projeto final.
+>
 [[slide]](https://otavioborgsm.github.io/javascript-completo-origamid/slide/)
-**Projeto Final - Animais Fantásticos**
+### **Projeto Final - Animais Fantásticos**
 Projeto Final do curso.
+>
 [[animais-fantasticos]](https://otavioborgsm.github.io/javascript-completo-origamid/projeto-final/animais-fantasticos/)
