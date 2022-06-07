@@ -1,4 +1,4 @@
-import ValidarCPF from "./validar-cpf.JS";
+import ValidarCPF from "./validar-cpf.js";
 
 const cpf = document.getElementById('cpf')
 
